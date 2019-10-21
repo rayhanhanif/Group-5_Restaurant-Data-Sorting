@@ -24,6 +24,9 @@ In the booth function we can order the choices of food that is offered in the re
 
 In the payment section we are required to enter the card id number the amount of cash inside the card will be reduced by the amount of cash which needs to be paid. If the amount of cash is not enough to pay the required amount of money, the program will ask the user to the cashier menu and top up the card. 
 
+For the attractiveness of our program, we use API win32 for the graphical user interface (GUI). At the moment, we have successfully created the window for the program, but still unable to input the function of our main program, which is the restaurant data sorting. 
+To make such a GUI, we first start by creating the window. In codeblocks, there is the library called windows.h to do so. Then, we follow the instruction from our reference on youtube (https://www.youtube.com/watch?v=8GCvZs55mEM&list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK), learn step by step how to make the submenu, buttons, and description in the window, then we modify the code to make the window to look just like the one that we make in the console  application.
+
 Thank You 
 
 Anak Agung Krisna Ananda Kusuma (1806228146)

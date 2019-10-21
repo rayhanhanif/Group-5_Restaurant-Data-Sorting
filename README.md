@@ -1,17 +1,17 @@
 # Group 5_Restaurant-Data-Sorting
+This mini project is created using Code Blocks and the functions that are used in this program are array, function, and header. 
 
-
-Our program is about a data sorting program which is applied in restaurants. The program has two features which are to store the id card number and the amount of money stored in it and to store the data of the ordered food of the customer. To store the card ID number and the amount of money in it, we use the fptr, fscanf, fopen, fclose and strtoken to keep and open the data from the txt file. 
+Our program is about a data sorting program which is applied in restaurants. The program has two features which are to store the id card number and the amount of money stored in it, and to store the data of the ordered food of the customer. To store the card ID number and the amount of money in it, we use the fptr, fscanf, fopen, fclose and strtoken to keep and open the data from the txt file. 
 
 ![Screenshot (81)](https://serving.photos.photobox.com/22524907a01a77fcc18ab70abd9270ef1e4958ed4645a3938fd6961af7d8ed3de57cfa36.jpg)
 
 There are two choices in the display menu program; Cashier and Booth.
 1. Cashier
 In this function there are are four functions
-newcard(); //to create a member card
-topup(); //to add the amount of cash inside the card
-refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
-listcards(); //to show the list of cards which have been registered and stored in the txt file.
+- newcard(); //to create a member card
+- topup(); //to add the amount of cash inside the card
+- refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
+- listcards(); //to show the list of cards which have been registered and stored in the txt file.
 
 ![Screenshot (82)](https://serving.photos.photobox.com/04163913bb315e8a428cd5bb9bcb0076463cb4c46e19b5307992e409d0a5cda353cd3fe4.jpg)
 
@@ -22,3 +22,9 @@ In the booth function we can order the choices of food that is offered in the re
 - Back and reduce // return to the food menu and reduce the amount of food selected
 ![Screenshot (83)](https://serving.photos.photobox.com/323418027c6a995a664c2fe80c5d1440a9356a367397e3b05fbd49456e8098d756b117c8.jpg)
 
+In the payment section we are required to enter the card id number the amount of cash inside the card will be reduced by the amount of cash which needs to be paid. If the amount of cash is not enough to pay the required amount of money, the program will ask the user to the cashier menu and top up the card. 
+
+Thank You 
+
+Anak Agung Krisna Ananda Kusuma (1806228146)
+Rayhan Hanif Oetomo (1806187770)

@@ -1,4 +1,4 @@
-# Restaurant-Data-Sorting
+# Group 5_Restaurant-Data-Sorting
 
 Our program is about a data sorting program which is applied in restaurants. The program has two features which are to store the id card number and the amount of money stored in it and to store the data of the ordered food of the customer. To store the card ID number and the amount of money in it, we use the fptr, fscanf, fopen, fclose and strtoken to keep and open the data from the txt file. 
 

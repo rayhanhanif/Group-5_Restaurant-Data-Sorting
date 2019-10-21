@@ -13,12 +13,12 @@ topup(); //to add the amount of cash inside the card
 refund(); //to refund the amount of cash stored in the card and to unregister/delete the card
 listcards(); //to show the list of cards which have been registered and stored in the txt file.
 
-![Screenshot (82)](https://serving.photos.photobox.com/294698876d925b652519150dcba09d49dca1ccae539d648ebac239ad8018aa7656cc0880.jpg)
+![Screenshot (82)](https://serving.photos.photobox.com/04163913bb315e8a428cd5bb9bcb0076463cb4c46e19b5307992e409d0a5cda353cd3fe4.jpg)
 
 2. Booth
 In the booth function we can order the choices of food that is offered in the restaurant. There are ten different food choices. The cool thing about this program is that if we want to order the selected item for an amount of 7, we can spam the number of the selected item in the program and it will keep on adding until we want the desired amount. After selecting the food, we will be directed to the payment function. There are three choices in the payment function; 
 - Yes // to continue to the payment, entering the card ID number
 - Back and add more // return to the food menu and add more food
 - Back and reduce // return to the food menu and reduce the amount of food selected
-![Screenshot (83)](https://serving.photos.photobox.com/646454979b3565f9b7710983bbf2e7a5fa2444173752cae42d23d70f756272bda57cb748.jpg)
+![Screenshot (83)](https://serving.photos.photobox.com/323418027c6a995a664c2fe80c5d1440a9356a367397e3b05fbd49456e8098d756b117c8.jpg)
 

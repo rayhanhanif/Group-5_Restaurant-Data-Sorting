@@ -33,3 +33,10 @@ Thank You
 
 - Anak Agung Krisna Ananda Kusuma (1806228146)
 - Rayhan Hanif Oetomo (1806187770)
+
+References:
+- https://www.youtube.com/watch?v=2pBVlpLM1Sc&t=528s
+- https://www.youtube.com/watch?v=hiG5G2caZ38
+- https://www.youtube.com/watch?v=hiG5G2caZ38
+- https://www.youtube.com/watch?v=8GCvZs55mEM
+
